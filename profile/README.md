@@ -2,9 +2,9 @@
 
 Say goodbye to the mundane and hello to CatalystGo – your all-in-one toolkit for building microservices in Golang without the hassle of other tools. 🎉
 
-CatalystGo isn't just a framework. It's an entire galaxy of tools and libraries working in perfect harmony to make your microservices journey a breeze. 🌌
-
 ## Demo 📺
+
+[YouTube](https://youtu.be/0M8mtRK8nXE)
 
 ## Repositories 📚
 
